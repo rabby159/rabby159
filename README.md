@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Md Rabby
-- 👀 I’m interested in ...Pyhon
-- 🌱 I’m currently learning ...C
+- 👀 I’m interested in Node js
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on ..Error.
 - 📫 How to reach me ...ablazerabbi159@gmail.com
 

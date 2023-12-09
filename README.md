@@ -12,4 +12,5 @@
 ### 📫Current Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rabby159&theme=blueberry-duo)](https://git.io/streak-stats)
 
-https://api.githubtrends.io/user/svg/rabby159/repos?time_range=one_year&theme=bright_lights
+
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/rabby159/repos?time_range=one_year&theme=bright_lights)](https://githubtrends.io)

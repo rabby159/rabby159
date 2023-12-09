@@ -13,7 +13,8 @@
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/rabby159/repos?time_range=one_year&theme=bright_lights)](https://githubtrends.io)
 
 ## 📫Current Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rabby159&theme=blueberry-duo)](https://git.io/streak-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rabby159&theme=nord_bright)
+
 
 
 ## 📫Technologies I Play with

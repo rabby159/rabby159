@@ -9,7 +9,6 @@
 - 💞️ I’m looking to collaborate on some open source project.
 - 📫 How to reach me ...ablazerabbi159@gmail.com
 
-
-
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io)
 ### 📫Current Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rabby159&theme=blueberry-duo)](https://git.io/streak-stats)

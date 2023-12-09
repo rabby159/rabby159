@@ -10,4 +10,4 @@
 - 📫 How to reach me ...ablazerabbi159@gmail.com
 
 ### Current Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rabby159)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rabby159&theme=blueberry-duo)](https://git.io/streak-stats)

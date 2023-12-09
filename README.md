@@ -8,3 +8,6 @@
 - 🌱 I’m currently learning Redux
 - 💞️ I’m looking to collaborate on some open source project.
 - 📫 How to reach me ...ablazerabbi159@gmail.com
+
+### Current Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rabby159)](https://git.io/streak-stats)

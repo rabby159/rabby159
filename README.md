@@ -9,6 +9,8 @@
 - 💞️ I’m looking to collaborate on some open source project.
 - 📫 How to reach me ...ablazerabbi159@gmail.com
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io)
 ### 📫Current Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rabby159&theme=blueberry-duo)](https://git.io/streak-stats)
+
+
+"You (('rabby159', UpdateUserBackgroundTask(user_id='rabby159', access_token='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', private_access=False, start_date=None, end_date=None))) are now authenticated!"

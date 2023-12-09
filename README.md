@@ -13,9 +13,7 @@
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/rabby159/repos?time_range=one_year&theme=bright_lights)](https://githubtrends.io)
 
 ## 📫Current Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rabby159&theme=nord_bright)
-
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rabby159&theme=blueberry-duo)](https://git.io/streak-stats)
 
 ## 📫Technologies I Play with
 <p align="center">
@@ -32,4 +30,7 @@
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="70" height="70"/> </a> 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="70" height="70"/> </a> 
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="70" height="70"/> </a> </p>
+
+##Current Git Summary
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rabby159&theme=nord_bright)
 

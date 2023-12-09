@@ -1,6 +1,6 @@
 
 ![The San Juan Mountains are beautiful!](gitHubBanner.jpg "San Juan Mountains")
-# MD Rabby
+# Hi! I am MD Rabby
 - 👋 Hi, I’m Md Rabby
 - 👀 I’m interested in MERN
 - 🌱 I’m currently learning JavaScript

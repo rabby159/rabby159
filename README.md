@@ -14,8 +14,9 @@
 
 ## 📫Current Stats
 <p align="center">
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rabby159&theme=blueberry-duo)](https://git.io/streak-stats)
 </p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rabby159&theme=blueberry-duo)](https://git.io/streak-stats)
+
 
 
 ## 📫Technologies I Play with

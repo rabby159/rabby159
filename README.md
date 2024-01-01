@@ -9,9 +9,6 @@
 - ###  💞️ I’m looking to collaborate on some open source project.
 - ###  📫 How to reach me ...ablazerabbi159@gmail.com
 
-## 📫Line of Codes(LOC) Analysis
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/rabby159/repos?time_range=one_year&theme=bright_lights)](https://githubtrends.io)
-
 ## 📫Current Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rabby159&theme=blueberry-duo)](https://git.io/streak-stats)
 

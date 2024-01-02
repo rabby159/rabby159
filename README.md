@@ -10,13 +10,12 @@
 - ###  📫 How to reach me ...ablazerabbi159@gmail.com
 
 ## 📫Current Stats
-<p align="center"> 
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rabby159&theme=blueberry-duo)](https://git.io/streak-stats)
 
 
 ## 📫Technologies I Play with
-<p align="center">
-</p>
+
 <p align="center"> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="70" height="70"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="70" height="70"/> </a> 

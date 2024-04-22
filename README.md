@@ -10,8 +10,9 @@
 - ###  📫 How to reach me ...ablazerabbi159@gmail.com
 
 ## 📫Current Stats
-<div align='center'>
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rabby159&theme=blueberry-duo)](https://git.io/streak-stats)
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 

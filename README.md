@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences [https://harlequin-yasmeen-28.tiiny.site](https://harlequin-yasmeen-28.tiiny.site)
 
-- ⚡ Fun fact **Basically, I enjoyed my coding life❤**
+- ⚡ Fun fact **Basically, I'm enjoying my coding life❤**
   
 
 <h3 align="left">Connect with me:</h3>

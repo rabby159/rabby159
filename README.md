@@ -6,7 +6,8 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rabby159&label=Profile%20views&color=0e75b6&style=flat" alt="rabby159" /> </p>
-
+<div>
+  <p>
 - 🌱 I’m currently learning **TypeScript, Redux, Mongoose etc.**
 
 - 👯 I’m looking to collaborate on [Secure Savings](https://secure-savings.vercel.app/)
@@ -22,8 +23,11 @@
 - 📄 Know about my experiences [https://harlequin-yasmeen-28.tiiny.site](https://harlequin-yasmeen-28.tiiny.site)
 
 - ⚡ Fun fact **Basically, I enjoyed my coding life❤**
-
-<a href="https://app.daily.dev/rabbi159"><img src="https://api.daily.dev/devcards/v2/BPLkes1CuPZGCdNmWhbmY.png?type=default&r=68y" width="200" alt="Md Rabby's Dev Card"/></a>
+  </p>
+  <p>
+    <a href="https://app.daily.dev/rabbi159"><img src="https://api.daily.dev/devcards/v2/BPLkes1CuPZGCdNmWhbmY.png?type=default&r=68y" width="200" alt="Md Rabby's Dev Card"/></a>
+  </p>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">

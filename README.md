@@ -22,6 +22,7 @@
 - 📄 Know about my experiences [https://harlequin-yasmeen-28.tiiny.site](https://harlequin-yasmeen-28.tiiny.site)
 
 - ⚡ Fun fact **Basically, I enjoyed my coding life❤**
+  
  <a href="https://app.daily.dev/rabbi159"><img src="https://api.daily.dev/devcards/v2/BPLkes1CuPZGCdNmWhbmY.png?type=default&r=68y" width="250" alt="Md Rabby's Dev Card"/></a>
 
 <h3 align="left">Connect with me:</h3>

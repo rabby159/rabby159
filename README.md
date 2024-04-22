@@ -3,9 +3,9 @@
 
 
 <h1 align="center">Hi, I'm Md Rabby🚀</h1>
-<a href="https://app.daily.dev/rabbi159"><img src="https://api.daily.dev/devcards/v2/BPLkes1CuPZGCdNmWhbmY.png?type=default&r=68y" width="356" alt="Md Rabby's Dev Card"/></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rabby159&label=Profile%20views&color=0e75b6&style=flat" alt="rabby159" /> </p>
+<a href="https://app.daily.dev/rabbi159"><img src="https://api.daily.dev/devcards/v2/BPLkes1CuPZGCdNmWhbmY.png?type=default&r=68y" width="356" alt="Md Rabby's Dev Card"/></a>
 
 - 🌱 I’m currently learning **TypeScript, Redux, Mongoose etc.**
 

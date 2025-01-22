@@ -54,7 +54,7 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
    </p>
 
-<p align='left'>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rabby159&show_icons=true&locale=en" alt="rabby159" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=rabby159&show_icons=true&locale=en" alt="rabby159" /></p>
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=rabby159&" alt="rabby159" /></p>
 

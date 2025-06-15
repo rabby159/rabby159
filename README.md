@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rabby159&label=Profile%20views&color=0e75b6&style=flat" alt="rabby159" /> </p>   
 
-- 🌱 I’m currently learning **TypeScript, Redux, Mongoose etc.**
+- 🌱 I’m currently learning **TypeScript, Redux, Mongoose etc. **
 
 - 👯 I’m looking to collaborate on [Secure Savings](https://secure-savings.vercel.app/)
 
